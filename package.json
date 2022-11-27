@@ -1,0 +1,12 @@
+{
+    "name" : "com.custompackage.externalscripts",
+    "displayName" : "External Scripts",
+    "version" : "1.0.0",
+    "description" : "Package of all external scripts",
+    "unity" : "2021.3",
+    "author" : {
+        "name" : "Thomas Colin",
+        "email" : "thomas.cln.pro@gmail.com"
+    },
+    "type" : "tool"
+}
